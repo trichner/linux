@@ -1,3 +1,6 @@
 [submodule "drivers/video/4d-hats"]
 	path = drivers/video/4d-hats
 	url = https://github.com/trichner/4d-hats.git
+[submodule "pi-tools"]
+	path = pi-tools
+	url = https://github.com/raspberrypi/tools
